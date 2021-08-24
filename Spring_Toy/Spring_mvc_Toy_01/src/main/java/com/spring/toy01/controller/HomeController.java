@@ -1,4 +1,4 @@
-package com.spring.toy01;
+package com.spring.toy01.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
